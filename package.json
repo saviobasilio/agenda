@@ -1,0 +1,14 @@
+{
+  "name": "agenda",
+  "version": "1.0.0",
+  "description": "Aplicativo para gerenciar sua agenda semanal, marcando todas as suas atividades e compromissos, com o intuito de te deixar mais produtivo e focado",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No automated tests configured\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
